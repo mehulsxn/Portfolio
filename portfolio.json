@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Mehul Saxena",
 		"label": "Student",
-		"picture": "---",
+		"picture": "https://raw.githubusercontent.com/mehulsxn/Portfolio/main/port.jpg",
 		"email": "2019kuec2019@iiitkota.ac.in",
 		"phone": "9628707077",
 		"website": "---Enter Link of website(if any) ---",
@@ -14,7 +14,8 @@
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
 		},
-		"profiles": [{
+		"profiles": [
+			{
 				"network": "Twitter",
 				"username": "handle",
 				"url": "---"
