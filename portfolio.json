@@ -1,0 +1,90 @@
+{
+	"basics": {
+		"name": "Mehul Saxena",
+		"label": "Student",
+		"picture": "---",
+		"email": "2019kuec2019@iiitkota.ac.in",
+		"phone": "9628707077",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I'm a undergraduate student at IIIT KOTA persuing B.tech in Electronics and Communication.I find my interest in designing mobile applications using Flutter and Firebase.",
+		"location": {
+			"address": "---",
+			"postalCode": "---",
+			"city": "Lucknow",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "---"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/mehulsxn"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/mehulsaxena/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "---"
+			}
+		]
+	},
+	//"work": [{
+	//	"company": "---",
+	//	"position": "---",
+	//	"website": "---",
+	//	"startDate": "---",
+	//	"endDate": "--- ",
+	//	"summary": "India’s Fastest growing Technical & Non-technical Community",
+//		"highlights": ["Add Highlights", "Your work details"]
+//	}],
+	"Clubs and Socities": [{
+		"organization": "ODYSSEY-The Literary Club IIIT KOTA",
+		"position": "General Secretary",
+		"website": "---",
+		"startDate": "2019-08-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Official Literary Club of IIIT Kota",
+		"highlights": []
+	},
+    {
+		"organization": "Google DSC IIIT KOTA",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2020-06-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Developer Student Club IIIT Kota",
+		"highlights": []
+	}
+     ],
+	"Education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "----",
+		"gpa": "7.51",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	
+	"Skills": [{
+		"keywords": ["HTML", "CSS", "C/C++", "Flutter","Firebase","Python","MATLAB","Dart","Git/Github"]
+	}],
+	"Interests": [
+		{
+			"name": "Extra Curricular",
+			"keywords": [ "Poster Designing", "Debating", "Football" ]
+		}
+	]
+
+	//"references": []
+}
