@@ -18,7 +18,7 @@
 			{
 				"network": "Twitter",
 				"username": "handle",
-				"url": "---"
+				"url": "https://twitter.com/MehulSaxena16"
 			},
 			{
 				"network": "Github",
@@ -33,59 +33,111 @@
 			{
 				"network": "Instagram",
 				"username": "handle",
-				"url": "---"
+				"url": "https://instagram.com/mehul.saxena08"
 			}
 		]
 	},
-	//"work": [{
-	//	"company": "---",
-	//	"position": "---",
-	//	"website": "---",
-	//	"startDate": "---",
-	//	"endDate": "--- ",
-	//	"summary": "India’s Fastest growing Technical & Non-technical Community",
-//		"highlights": ["Add Highlights", "Your work details"]
-//	}],
-	"Clubs and Socities": [{
-		"organization": "ODYSSEY-The Literary Club IIIT KOTA",
-		"position": "General Secretary",
-		"website": "---",
-		"startDate": "2019-08-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Official Literary Club of IIIT Kota",
-		"highlights": []
-	},
-    {
-		"organization": "Google DSC IIIT KOTA",
-		"position": "Core Member",
-		"website": "---",
-		"startDate": "2020-06-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Developer Student Club IIIT Kota",
-		"highlights": []
-	}
-     ],
-	"Education": [{
-		"institution": "Indian Institute of Information Technology,Kota",
-		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2019-05-08 //Date",
-		"endDate": "----",
-		"gpa": "7.51",
-		"courses": [
-			"Electronics & Communication Engineering"
-		]
-	}],
-	
-	"Skills": [{
-		"keywords": ["HTML", "CSS", "C/C++", "Flutter","Firebase","Python","MATLAB","Dart","Git/Github"]
-	}],
+	"work experience": [
+		{
+			"company": "---",
+			"position": "---",
+			"website": "---",
+			"startDate": "---",
+			"endDate": "--- ",
+			"summary": "---",
+			"highlights": [ "---", "---" ]
+		},
+		{
+			"company": "---",
+			"position": "---",
+			"website": "---",
+			"startDate": "---",
+			"endDate": "--- ",
+			"summary": "---",
+			"highlights": [ "---", "---" ]
+		}
+	],
+	"Volunteer": [
+		{
+			"organization": "ODYSSEY-The Literary Club IIIT KOTA",
+			"position": "General Secretary",
+			"website": "---",
+			"startDate": "2019-08-01 // Note Date Format",
+			"endDate": "---",
+			"summary": "Official Literary Club of IIIT Kota",
+			"highlights": []
+		},
+		{
+			"organization": "Google DSC IIIT KOTA",
+			"position": "Core Member",
+			"website": "---",
+			"startDate": "2020-06-01 // Note Date Format",
+			"endDate": "---",
+			"summary": "Developer Student Club IIIT Kota",
+			"highlights": []
+		}
+	],
+	"Education": [
+		{
+			"institution": "Indian Institute of Information Technology,Kota",
+			"area": "Engineering",
+			"studyType": "Bachelor (hons)",
+			"startDate": "2019-05-08 //Date",
+			"endDate": "----",
+			"gpa": "7.51",
+			"courses": [
+				"Electronics & Communication Engineering"
+			]
+		}
+	],
+
+	"awards": [
+		{
+			"title": "---",
+			"awarder": "---",
+			"date": "---"
+		},
+		{
+			"title": "---",
+			"awarder": "---",
+			"date": "---"
+		}
+	],
+
+	"publications": [
+		{
+			"title": "---",
+			"details": "---",
+			"link": "---"
+		},
+		{
+			"title": "---",
+			"details": "---",
+			"link": "---"
+		},
+		{
+			"title": "---",
+			"details": "---",
+			"link": "---"
+		},
+		{
+			"title": "--",
+			"details": "--",
+			"link": "---"
+		}
+	],
+
+	"Skills": [
+		{
+			"keywords": [ "HTML", "CSS", "C/C++", "Flutter", "Firebase", "Python", "MATLAB", "Dart", "Git/Github" ]
+		}
+	],
 	"Interests": [
 		{
 			"name": "Extra Curricular",
 			"keywords": [ "Poster Designing", "Debating", "Football" ]
 		}
-	]
+	],
 
-	//"references": []
+	"references": []
 }
