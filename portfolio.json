@@ -37,7 +37,7 @@
 			}
 		]
 	},
-	"work experience": [
+	"work": [
 		{
 			"company": "",
 			"position": "",
@@ -57,7 +57,7 @@
 			"highlights": [ "", "" ]
 		}
 	],
-	"Volunteer": [
+	"volunteer": [
 		{
 			"organization": "ODYSSEY-The Literary Club IIIT KOTA",
 			"position": "General Secretary",
@@ -77,7 +77,7 @@
 			"highlights": []
 		}
 	],
-	"Education": [
+	"education": [
 		{
 			"institution": "Indian Institute of Information Technology,Kota",
 			"area": "Engineering",
@@ -129,10 +129,11 @@
 
 	"Skills": [
 		{
+			"level": "intermediate",
 			"keywords": [ "HTML", "CSS", "C/C++", "Flutter", "Firebase", "Python", "MATLAB", "Dart", "Git/Github" ]
 		}
 	],
-	"Interests": [
+	"interests": [
 		{
 			"name": "Extra Curricular",
 			"keywords": [ "Poster Designing", "Debating", "Football" ]
