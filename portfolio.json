@@ -1,130 +1,113 @@
 {
-	"basics": {
-		"name": "Mehul Saxena",
-		"label": "Student",
-		"picture": "https://raw.githubusercontent.com/mehulsxn/Portfolio/main/port.jpg",
-		"email": "2019kuec2019@iiitkota.ac.in",
-		"phone": "9628707077",
-		"website": "",
-		"summary": "I'm a undergraduate student at IIIT KOTA persuing B.tech in Electronics and Communication.I find my interest in designing mobile applications using Flutter and Firebase.",
-		"location": {
-			"address": "",
-			"postalCode": "",
-			"city": "Lucknow",
-			"countryCode": "India",
-			"region": "Uttar Pradesh"
-		},
-		"profiles": [
-			{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://twitter.com/MehulSaxena16"
-			},
-			{
-				"network": "Github",
-				"username": "handle",
-				"url": "https://github.com/mehulsxn"
-			},
-			{
-				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/mehulsaxena/"
-			},
-			{
-				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/mehul.saxena08"
-			}
-		]
-	},
-	"work": [
-		{
-			"company": "",
-			"position": "",
-			"website": "",
-			"startDate": "",
-			"endDate": " ",
-			"summary": "",
-			"highlights": [ "", "" ]
-		},
-		{
-			"company": "",
-			"position": "",
-			"website": "",
-			"startDate": "",
-			"endDate": "",
-			"summary": "",
-			"highlights": [ "", "" ]
-		}
-	],
-	"volunteer": [
-		{
-			"organization": "ODYSSEY-The Literary Club IIIT KOTA",
-			"position": "General Secretary",
-			"website": "",
-			"startDate": "2019-08-01",
-			"endDate": "",
-			"summary": "Official Literary Club of IIIT Kota",
-			"highlights": []
-		},
-		{
-			"organization": "Google DSC IIIT KOTA",
-			"position": "Core Member",
-			"website": "",
-			"startDate": "2020-06-01",
-			"endDate": "",
-			"summary": "Developer Student Club IIIT Kota",
-			"highlights": []
-		}
-	],
-	"education": [
-		{
-			"institution": "Indian Institute of Information Technology,Kota",
-			"area": "Engineering",
-			"studyType": "Bachelor (hons)",
-			"startDate": "2019-05-08",
-			"endDate": "",
-			"gpa": "7.51",
-			"courses": [
-				"Electronics & Communication Engineering"
-			]
-		}
-	],
+  "basics": {
+    "name": "Mehul Saxena",
+    "label": "Student",
+    "picture": "https://raw.githubusercontent.com/mehulsxn/Portfolio/main/port.jpg",
+    "email": "2019kuec2019@iiitkota.ac.in",
+    "phone": "9628707077",
+    "website": "",
+    "summary": "I'm a undergraduate student at IIIT KOTA persuing B.tech in Electronics and Communication.I find my interest in designing mobile applications using Flutter and Firebase.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lucknow",
+      "countryCode": "India",
+      "region": "Uttar Pradesh"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "handle",
+        "url": "https://twitter.com/MehulSaxena16"
+      },
+      {
+        "network": "Github",
+        "username": "handle",
+        "url": "https://github.com/mehulsxn"
+      },
+      {
+        "network": "linkedin",
+        "username": "username",
+        "url": "https://www.linkedin.com/in/mehulsaxena/"
+      },
+      {
+        "network": "Instagram",
+        "username": "handle",
+        "url": "https://instagram.com/mehul.saxena08"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": " ",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ODYSSEY-The Literary Club IIIT KOTA",
+      "position": "General Secretary",
+      "website": "",
+      "startDate": "2019-08-01",
+      "endDate": "",
+      "summary": "Official Literary Club of IIIT Kota",
+      "highlights": []
+    },
+    {
+      "organization": "Google DSC IIIT KOTA",
+      "position": "Core Member",
+      "website": "",
+      "startDate": "2020-06-01",
+      "endDate": "",
+      "summary": "Developer Student Club IIIT Kota",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology,Kota",
+      "area": "Engineering",
+      "studyType": "Bachelor (hons)",
+      "startDate": "2019-05-08",
+      "endDate": "",
+      "gpa": "7.51",
+      "courses": [
+        "Electronics & Communication Engineering"
+      ]
+    }
+  ],
 
-	"awards": [
-		{
-			"title": "",
-			"awarder": "",
-			"date": ""
-		},
-		{
-			"title": "",
-			"awarder": "",
-			"date": ""
-		}
-	],
+  "awards": [],
 
-	"publications": [
-		{
-			"title": "",
-			"details": "",
-			"link": ""
-		}
-		
-	],
+  "publications": [],
 
-	"Skills": [
-		{
-			"level": "intermediate",
-			"keywords": [ "HTML", "CSS", "C/C++", "Flutter", "Firebase", "Python", "MATLAB", "Dart", "Git/Github" ]
-		}
-	],
-	"interests": [
-		{
-			"name": "Extra Curricular",
-			"keywords": [ "Poster Designing", "Debating", "Football" ]
-		}
-	],
+  "Skills": [
+    {
+      "name": "",
+      "level": "intermediate",
+      "keywords": [ "HTML", "CSS", "C/C++", "Flutter", "Firebase", "Python", "MATLAB", "Dart", "Git/Github" ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Extra Curricular",
+      "keywords": [ "Poster Designing", "Debating", "Football" ]
+    }
+  ],
 
-	"references": []
+  "references": []
 }
