@@ -5,11 +5,11 @@
 		"picture": "https://raw.githubusercontent.com/mehulsxn/Portfolio/main/port.jpg",
 		"email": "2019kuec2019@iiitkota.ac.in",
 		"phone": "9628707077",
-		"website": "---Enter Link of website(if any) ---",
+		"website": "",
 		"summary": "I'm a undergraduate student at IIIT KOTA persuing B.tech in Electronics and Communication.I find my interest in designing mobile applications using Flutter and Firebase.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
+			"address": "",
+			"postalCode": "",
 			"city": "Lucknow",
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
@@ -39,40 +39,40 @@
 	},
 	"work experience": [
 		{
-			"company": "---",
-			"position": "---",
-			"website": "---",
-			"startDate": "---",
-			"endDate": "--- ",
-			"summary": "---",
-			"highlights": [ "---", "---" ]
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": " ",
+			"summary": "",
+			"highlights": [ "", "" ]
 		},
 		{
-			"company": "---",
-			"position": "---",
-			"website": "---",
-			"startDate": "---",
-			"endDate": "--- ",
-			"summary": "---",
-			"highlights": [ "---", "---" ]
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": "",
+			"highlights": [ "", "" ]
 		}
 	],
 	"Volunteer": [
 		{
 			"organization": "ODYSSEY-The Literary Club IIIT KOTA",
 			"position": "General Secretary",
-			"website": "---",
+			"website": "",
 			"startDate": "2019-08-01 // Note Date Format",
-			"endDate": "---",
+			"endDate": "",
 			"summary": "Official Literary Club of IIIT Kota",
 			"highlights": []
 		},
 		{
 			"organization": "Google DSC IIIT KOTA",
 			"position": "Core Member",
-			"website": "---",
+			"website": "",
 			"startDate": "2020-06-01 // Note Date Format",
-			"endDate": "---",
+			"endDate": "",
 			"summary": "Developer Student Club IIIT Kota",
 			"highlights": []
 		}
@@ -83,7 +83,7 @@
 			"area": "Engineering",
 			"studyType": "Bachelor (hons)",
 			"startDate": "2019-05-08 //Date",
-			"endDate": "----",
+			"endDate": "",
 			"gpa": "7.51",
 			"courses": [
 				"Electronics & Communication Engineering"
@@ -93,37 +93,37 @@
 
 	"awards": [
 		{
-			"title": "---",
-			"awarder": "---",
-			"date": "---"
+			"title": "",
+			"awarder": "",
+			"date": ""
 		},
 		{
-			"title": "---",
-			"awarder": "---",
-			"date": "---"
+			"title": "",
+			"awarder": "",
+			"date": ""
 		}
 	],
 
 	"publications": [
 		{
-			"title": "---",
-			"details": "---",
-			"link": "---"
+			"title": "",
+			"details": "-",
+			"link": ""
 		},
 		{
-			"title": "---",
-			"details": "---",
-			"link": "---"
+			"title": "",
+			"details": "",
+			"link": ""
 		},
 		{
-			"title": "---",
-			"details": "---",
-			"link": "---"
+			"title": "",
+			"details": "",
+			"link": ""
 		},
 		{
-			"title": "--",
-			"details": "--",
-			"link": "---"
+			"title": "",
+			"details": "",
+			"link": ""
 		}
 	],
 
